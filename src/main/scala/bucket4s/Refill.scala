@@ -1,6 +1,6 @@
 package bucket4s
 
-import scala.concurrent.duration.Duration
+import java.time.Duration
 
 /**
  * @author Ayush Mittal
